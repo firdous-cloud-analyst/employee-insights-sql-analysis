@@ -23,4 +23,4 @@ equity, and workforce turnover.
 - Complex multi-table JOINs
 - Data filtering and aggregation
 
-## Sample Output
+
