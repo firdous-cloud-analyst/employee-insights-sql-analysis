@@ -23,6 +23,3 @@ equity, and workforce turnover.
 - CASE WHEN pivoting
 - Complex multi-table JOINs
 - Data filtering and aggregation
-
-## Sample Output
-[Add a screenshot of your query results here]
